@@ -8,3 +8,5 @@ Acesse = http://127.0.0..1:8000
 
 # para acessar a documentação 
 Acesse o navegador =http://127.0.0..1:8000/docs
+
+pip install jinja2 python-multipart
